@@ -14,7 +14,7 @@ end
 
 
 
-def get_japanese_emoticon
+def get_japanese_emoticon(file_path)
   # code goes here
 end
 
