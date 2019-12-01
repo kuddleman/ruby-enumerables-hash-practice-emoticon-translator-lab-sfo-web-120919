@@ -12,7 +12,7 @@ def load_library(file_path)
   emoticons
 end
 
-
+p emoticons
 
 def get_japanese_emoticon
   # code goes here
